@@ -1,11 +1,10 @@
-### Hi there 👋
-### Welcome 👋
+### Hi there, Welcome 👋
 
 #### Software Engineer.
 
-I am Justice Otuya. I am a Software engineer. I am always open to collaborating on projects and innovative/disruptive ideas. You will either find me coding or looking for the next cross cultural exchange opportuinity on a budget.
+I am Justice Otuya. I am a Software engineer. I am always open to collaborating on projects and innovative/disruptive ideas.
 
-- 🔭 I’m currently working on [building an easy tool for all your online course needs](https://cline.app)
+- 🔭 I’m currently working on [building Clarion](https://app.withclarion.com/)
 
 
 📫 How to reach me: 
